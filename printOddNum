@@ -1,0 +1,14 @@
+var name = "Chikodi Hope Okelue";
+var courses = ["HTML", "CSS", "Javascript", "Python", "Nodejs"];
+var len = courses.length;
+
+console.log(name, courses);
+
+
+function printOddNumber(200){
+for(let i = 1; i<=200: i++){
+if(i % 2 !== 0){
+ console.log(i);
+}
+}
+}
